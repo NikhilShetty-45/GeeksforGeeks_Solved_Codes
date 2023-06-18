@@ -16,8 +16,6 @@ class Solution
             list.add(max);
             
         }
-        return list;
-        
-        
+        return list;        
     }
 }
